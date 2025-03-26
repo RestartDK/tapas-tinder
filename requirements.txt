@@ -1,7 +1,9 @@
 matplotlib
 numpy
 pandas
-plotly
 seaborn
 scikit-learn
+
+plotly
 wordcloud
+nbformat>=4.2.0
