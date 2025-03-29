@@ -4,6 +4,8 @@ pandas
 seaborn
 scikit-learn
 
+nltk
+gensim
 plotly
 wordcloud
 nbformat>=4.2.0
