@@ -1,5 +1,3 @@
-# Ignore the data file it is too big to include in the repo use kaggle instead
-data/
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
