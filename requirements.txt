@@ -3,7 +3,8 @@ numpy
 pandas
 seaborn
 scikit-learn
-
 plotly
 wordcloud
 nbformat>=4.2.0
+kaggle
+langdetect
