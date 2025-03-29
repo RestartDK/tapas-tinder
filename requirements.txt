@@ -1,8 +1,8 @@
 matplotlib
-numpy
+numpy=1.23.5
 pandas
 seaborn
-scikit-learn
+scikit-learnb
 plotly
 wordcloud
 nbformat>=4.2.0
